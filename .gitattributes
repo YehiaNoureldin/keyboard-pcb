@@ -1,0 +1,3 @@
+# Keep KiCad files byte-for-byte (no line-ending conversion)
+* -text
+*.md text
