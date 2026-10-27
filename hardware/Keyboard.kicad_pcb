@@ -5130,7 +5130,7 @@
 			(uuid "32965487-5df7-467a-bff9-3196bbd3fcc0")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -5556,7 +5556,7 @@
 			(uuid "443f93ed-9256-46a4-b17a-8af2040ac245")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -5954,7 +5954,7 @@
 			(uuid "295d5e45-ee3d-4f17-8749-1f38f93c2ff3")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -6669,7 +6669,7 @@
 			(uuid "7d4e77d5-395d-4616-9c3a-f15c0ffc1df3")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -7701,7 +7701,7 @@
 			(uuid "e81ab250-dc07-45f4-9a1a-f345eb1f0b41")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -8416,7 +8416,7 @@
 			(uuid "cf4372e4-11f7-4351-8b81-f6fbf402ddfa")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -9131,7 +9131,7 @@
 			(uuid "62c56995-0454-497d-aed9-b0d8d37dfa66")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -9529,7 +9529,7 @@
 			(uuid "2161cfcc-4dcc-4f59-bc0f-eb35e2d8b95e")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -10244,7 +10244,7 @@
 			(uuid "d2575012-11f5-427b-82db-c3183afd81cd")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -10642,7 +10642,7 @@
 			(uuid "21b9f5b2-b6d1-4a24-859d-a3d39bc3d394")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -11040,7 +11040,7 @@
 			(uuid "a701cba9-6509-48bb-bed8-830a7bc3a4cd")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -11755,7 +11755,7 @@
 			(uuid "b26de7dd-780f-4a3d-ad89-7d9d0d47ca4b")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -13132,7 +13132,7 @@
 			(uuid "d6526627-8588-43e1-b47f-bbd282d697f1")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -13847,7 +13847,7 @@
 			(uuid "1acb6c2e-ac7b-42d1-9f57-c595dca40278")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -14245,7 +14245,7 @@
 			(uuid "9cfc6405-d800-4d91-8ab9-4ac57c992ef8")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -14960,7 +14960,7 @@
 			(uuid "82a43432-56d1-4c3c-8eff-4038f9ca8a18")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -15358,7 +15358,7 @@
 			(uuid "23c3de9d-d28c-4a59-885f-180254060bfc")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -16707,7 +16707,7 @@
 			(uuid "be4738ae-93ec-4adf-af34-04cefc7dd5a0")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -17105,7 +17105,7 @@
 			(uuid "34fa6677-eabd-4506-8ebb-e7f2434d7f00")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -18771,7 +18771,7 @@
 			(uuid "6f9643a9-a0bd-421d-a230-f356eee88149")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -19169,7 +19169,7 @@
 			(uuid "63a080a3-6263-4d80-8978-f967aee87b5e")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -19567,7 +19567,7 @@
 			(uuid "6b924637-9c17-46dc-99dc-5fe1f2cb521b")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -20916,7 +20916,7 @@
 			(uuid "b4edb688-12ca-4973-82e0-1570ac66674f")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -21631,7 +21631,7 @@
 			(uuid "123866cf-2734-4d37-ab84-de43e16f31b9")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -22980,7 +22980,7 @@
 			(uuid "6be2b391-71b1-46b6-92c3-fcf94cd862f7")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -23378,7 +23378,7 @@
 			(uuid "13bf1608-3b67-4ee2-86dd-b6f351ab60bb")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -24410,7 +24410,7 @@
 			(uuid "99ad0f45-6642-4d45-acd1-45a58d383bee")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -25759,7 +25759,7 @@
 			(uuid "59c8f300-34fd-40d2-897b-aa0493cdf88a")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -26157,7 +26157,7 @@
 			(uuid "e8911aa8-93f4-482e-9fc1-a9962cd97e0b")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -26555,7 +26555,7 @@
 			(uuid "c96fb208-a0e1-4007-91e0-6be2c8b7f24c")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -27270,7 +27270,7 @@
 			(uuid "22019bfa-e138-4452-a4c1-373a4d6877c4")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -27985,7 +27985,7 @@
 			(uuid "d5a61ab9-cfd8-438d-9cba-fc52b99f49e4")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -28383,7 +28383,7 @@
 			(uuid "401bb35e-86c6-41ae-96a2-a00984eecdd2")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -29098,7 +29098,7 @@
 			(uuid "a16ebf92-0df7-424e-ae91-d6b42b645ba9")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -29813,7 +29813,7 @@
 			(uuid "1621b13a-6edb-42cb-a1ae-0a290524399a")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -30528,7 +30528,7 @@
 			(uuid "c7d70b07-b90d-49c0-8355-c64c26071240")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -31243,7 +31243,7 @@
 			(uuid "b6d4085e-034e-4bb6-90f7-69d9ac5de38b")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -33226,7 +33226,7 @@
 			(uuid "cf94e282-a25b-4bcc-a692-c971b52d4f7d")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -33652,7 +33652,7 @@
 			(uuid "355ee80e-ac33-4ce8-8711-bbedea20f1e6")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -35001,7 +35001,7 @@
 			(uuid "1cd86b38-0d2d-436a-adb6-2e2f03f0d065")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -35399,7 +35399,7 @@
 			(uuid "ffbd04fc-bd46-4ae9-af5a-871c5624bc49")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -36114,7 +36114,7 @@
 			(uuid "884b38e2-9067-4010-8a07-1314a298a575")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -36512,7 +36512,7 @@
 			(uuid "3d54f2d8-4238-41f0-a31e-bedbf09015a4")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -36910,7 +36910,7 @@
 			(uuid "7021db39-2b58-44fe-a2c3-bb2c168a7022")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -38259,7 +38259,7 @@
 			(uuid "330a5293-b793-485f-90ac-823fe79bd317")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -38657,7 +38657,7 @@
 			(uuid "2193b1ad-65f2-486e-92ac-e3e1d6209aad")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -39400,7 +39400,7 @@
 			(uuid "5ebb7057-3fa3-4040-a531-246c7e4c7b59")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -39798,7 +39798,7 @@
 			(uuid "da3f1d99-92f7-4453-af93-2011c5a5109f")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -40196,7 +40196,7 @@
 			(uuid "2ebfc70f-b7cd-484b-82da-dc2d98a7023e")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -40911,7 +40911,7 @@
 			(uuid "8c38b5fc-47e7-41ba-a3ae-99de30242f81")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -41309,7 +41309,7 @@
 			(uuid "4885ab21-66f2-4b2a-8ac1-bf1e4beda391")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -42024,7 +42024,7 @@
 			(uuid "36a10c9d-6462-4331-90ee-75e1af841128")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -43056,7 +43056,7 @@
 			(uuid "11f6ec3e-782e-4189-b318-56ac5bab1ffa")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -43454,7 +43454,7 @@
 			(uuid "0a19fc5a-6f10-4bf7-b347-6bfe0a450a08")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -43852,7 +43852,7 @@
 			(uuid "06396610-45ea-4a74-be84-2304a9d23a86")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -44278,7 +44278,7 @@
 			(uuid "b0b61041-e2ad-414d-8ceb-5e8b2dd5b91d")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -44993,7 +44993,7 @@
 			(uuid "67b0177c-05e2-428c-bb4a-1f3d963c45e0")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -46025,7 +46025,7 @@
 			(uuid "fc290a1a-ad9d-435d-aa65-8bdfeacc67bc")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -46423,7 +46423,7 @@
 			(uuid "af532991-865f-47a2-a8e1-f093e1884c12")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -47455,7 +47455,7 @@
 			(uuid "ae25798a-fd43-4ff3-8a6b-9ec6ffd120c8")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)
@@ -47853,7 +47853,7 @@
 			(uuid "f9db1114-ae7b-4778-b8e0-c60deecb30d4")
 		)
 		(embedded_fonts no)
-		(model "./MX-Hotswap-Socket.step"
+		(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 			(offset
 				(xyz -4.815 0.86 0)
 			)

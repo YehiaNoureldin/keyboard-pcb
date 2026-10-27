@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "KeyboardSymbolLibrary")(type "KiCad")(uri "${KIPRJMOD}/lib/KeyboardSymbolLibrary.kicad_sym")(options "")(descr "Project symbols: Raspberry Pi Pico"))
+)

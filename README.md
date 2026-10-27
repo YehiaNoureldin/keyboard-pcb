@@ -1,37 +1,35 @@
-# Keyboard Personal Project
+# keyboard-pcb
 
-A from-scratch 61-key (ANSI 60%) mechanical keyboard: custom PCB designed in KiCad 9, a Raspberry Pi Pico as the controller, and firmware written by hand in C with the Pico SDK.
+A from-scratch 61-key mechanical keyboard: custom PCB designed in KiCad, a Raspberry Pi Pico as the controller, and firmware written by hand in C.
 
-Goals: learn PCB layout fundamentals, then firmware fundamentals (GPIO, matrix scanning, debouncing, USB HID with TinyUSB, layers).
+**Goals:** learn PCB layout fundamentals, then firmware fundamentals (GPIO, matrix scanning, debouncing, USB HID, layers).
 
-## Hardware
-- 5 × 14 key matrix, one SOD-123 diode per key (current flows row → column)
-- MX hot-swap sockets on the bottom side; diodes on the bottom, under each switch
-- Raspberry Pi Pico mounted directly on the PCB
-- 6 × M3 mounting holes for a 3D-printed case
+## Repository structure
+```
+keyboard-pcb/
+├── hardware/      KiCad 9 project: schematic, PCB, libraries, 3D models
+├── firmware/      C firmware (Pico SDK), in progress
+└── docs/          Design log and design reviews
+```
 
-## Pin map
-| Signal | Pico pins |
-| --- | --- |
-| Rows 1–5 | GP1–GP5 |
-| Columns 1–12 | GP11–GP22 |
-| Columns 13–14 | GP26, GP27 |
-| Free | GP0, GP6–GP10, GP28 (UART1 on GP8/GP9 for debug output) |
+## Hardware at a glance
+- ANSI 60% layout, 61 keys, 5 × 14 matrix with one diode per key
+- MX hot-swap sockets, Raspberry Pi Pico mounted on the PCB
+- 2-layer board, 344.6 × 135 mm, 6 × M3 mounting holes for a 3D-printed case
 
-Scanning: drive one column LOW, read rows with internal pull-ups.
-
-## Repository layout
-- `Keyboard/` — KiCad project (schematic, PCB)
-- `FootprintLibrary.pretty/` — footprints used by the board
-- `KeyboardSymbolLibrary.kicad_sym` — custom Pico symbol
+Details: [`hardware/README.md`](hardware/README.md)
 
 ## Status
 - [x] Schematic
-- [x] Switch footprints flipped (sockets on bottom), diodes placed under switches
-- [ ] Route rows and columns
+- [x] Placement: switches flipped (sockets on bottom), diodes under each switch
+- [ ] Routing (rows and columns)
 - [ ] DRC clean, order PCBs
 - [ ] 3D-printed case and switch plate
-- [ ] Firmware
+- [ ] Firmware ([roadmap](firmware/README.md))
+
+## Documentation
+- [Design log](docs/design-log.md): every design change and the reasoning behind it
+- [Design review, 2026-10-27](docs/design-review-2026-10-27.md)
 
 ## Credits
-Switch footprints are from [ai03's MX_V2 library](https://github.com/ai03-2725/MX_V2) (MIT License).
+Switch footprints and the socket 3D model are from [ai03's MX_V2 library](https://github.com/ai03-2725/MX_V2) (MIT License).

@@ -1,4 +1,4 @@
-(footprint "MX-Hotswap-1.75U"
+(footprint "MX-Hotswap-1.5U"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "1.75U"
+	(property "Value" "1.5U"
 		(at 0 -7.9375 0)
 		(layer "Dwgs.User")
 		(uuid "7b3cc8d4-0d5e-48b8-a0e4-548ac07a365e")
@@ -55,14 +55,14 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -16.66875 9.525)
-		(end -16.66875 -9.525)
+		(start -14.2875 9.525)
+		(end -14.2875 -9.525)
 		(stroke
 			(width 0.15)
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "9e2d3353-865f-4c3d-b20a-e44acd15f487")
+		(uuid "167c3694-72e3-45f5-b0f6-1bb56feef325")
 	)
 	(fp_line
 		(start -7 -7)
@@ -145,34 +145,34 @@
 		(uuid "7f7a00b8-6923-4d52-a16b-b4e8312bb9da")
 	)
 	(fp_line
-		(start 16.66875 -9.525)
-		(end -16.66875 -9.525)
+		(start 14.2875 -9.525)
+		(end -14.2875 -9.525)
 		(stroke
 			(width 0.15)
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "74baf1dc-c383-416a-acaf-ab5b9008a251")
+		(uuid "8fc1aa99-903c-41c3-8c8f-e0e9edd33b0b")
 	)
 	(fp_line
-		(start 16.66875 9.525)
-		(end -16.66875 9.525)
+		(start 14.2875 9.525)
+		(end -14.2875 9.525)
 		(stroke
 			(width 0.15)
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "ae383a2f-cfe2-4fda-8a32-3026e883db1a")
+		(uuid "5bc39d53-cb13-4047-ae5f-071c167d3ef6")
 	)
 	(fp_line
-		(start 16.66875 9.525)
-		(end 16.66875 -9.525)
+		(start 14.2875 9.525)
+		(end 14.2875 -9.525)
 		(stroke
 			(width 0.15)
 			(type solid)
 		)
 		(layer "Dwgs.User")
-		(uuid "f5644fa2-3981-4aa1-9fb8-e3eaf3829185")
+		(uuid "127f6c45-be72-4dee-8cd7-178fd9f30656")
 	)
 	(fp_line
 		(start -7.2 -6.4)
@@ -376,7 +376,7 @@
 		(uuid "f2f92a63-b68d-4b69-a547-37c938bc0ec2")
 	)
 	(embedded_fonts no)
-	(model "./MX-Hotswap-Socket.step"
+	(model "${KIPRJMOD}/lib/3d/MX-Hotswap-Socket.step"
 		(offset
 			(xyz -4.815 0.86 0)
 		)

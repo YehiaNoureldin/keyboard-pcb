@@ -1,6 +1,8 @@
-# KiCad local/generated files
+# Local-only files (old downloads, backups, third-party libraries)
+_archive/
+
+# KiCad local / generated files
 *.lck
-~*.lck
 fp-info-cache
 *.kicad_prl
 *-backups/
@@ -8,20 +10,15 @@ fp-info-cache
 _autosave-*
 *.bak
 *-bak
-*.pre-flip.bak
-
-# Third-party footprint library (download from https://github.com/ai03-2725/MX_V2)
-MX_V2-main/
-MX_V2-main.zip
 
 # Fabrication output (regenerate from KiCad)
 gerbers/
 *.zip
 
+# Firmware build output
+firmware/build/
+
 # OS
 Thumbs.db
 desktop.ini
 .DS_Store
-
-# SnapMagic models: license forbids redistribution
-Other Footprints/
